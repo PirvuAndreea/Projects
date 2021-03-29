@@ -1,0 +1,34 @@
+
+ORDER 0:
+Table: 1   -   2020-04-29
+fresh de portocale - 10 RON x1
+apa plata - 4 RON x1
+salata de fructe - 36 RON x1
+Sandwich - 15 RON x2
+limonada cu fructe de padure - 12 RON x1
+
+TOTAL: 92 RON
+Va multumim!
+
+ORDER 1:
+Table: 2   -   2020-04-29
+fresh de portocale - 10 RON x1
+apa plata - 4 RON x1
+paine - 2 RON x1
+Sandwich - 15 RON x1
+mic dejun - 32 RON x2
+limonada cu fructe de padure - 12 RON x1
+
+TOTAL: 107 RON
+Va multumim!
+
+ORDER 2:
+Table: 3   -   2020-04-29
+mere - 4 RON x2
+paine - 2 RON x1
+dulceata - 3 RON x1
+unt - 4 RON x1
+limonada cu fructe de padure - 12 RON x1
+
+TOTAL: 29 RON
+Va multumim!

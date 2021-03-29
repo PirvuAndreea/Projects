@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html  xmlns:th="http://www.thymeLeaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista Comenzi -CodeJava</title>
+    <link rel = "stylesheet" type = "text/css" href = "/webjars/bootstrap/css/bootstrap.min.css" >
+</head>
+<body>
+    <div class="container text-center">
+        <div>
+        <h1>
+           Lista comenzi
+        </h1>
+
+        </div>
+        <div>
+            <table class="table table-striped table-bordered">
+                <thead class="thead-dark">
+                 <tr>
+                     <th>Comanda Id</th>
+                     <th>Pret total</th>
+                     <th>Data</th>
+                     <th>Prenume</th>
+                     <th>Nume</th>
+                     <th>Oras</th>
+                     <th>Adresa</th>
+                     <th>E-mail</th>
+                     <th>Numar telefon</th>
+                     <th>Cod postal</th>
+                     <th>Produse comandate</th>
+                     <th>Actions</th>
+
+                 </tr>
+
+                </thead>
+                <tbody>
+                    <tr th:each="comanda: ${listaComanda}">
+                        <td th:text="${comanda.id}">Comanda Id</td>
+                        <td th:text="${comanda.prettotal}">Pret total</td>
+                        <td th:text="${comanda.data}">Data</td>
+                        <td th:text="${comanda.prenume}">Prenume</td>
+                        <td th:text="${comanda.nume}">Nume</td>
+                        <td th:text="${comanda.oras}">Oras</td>
+                        <td th:text="${comanda.adresa}">Adresa</td>
+                        <td th:text="${comanda.email}">E-mail</td>
+                        <td th:text="${comanda.nrtelefon}">Numar telefon</td>
+                        <td th:text="${comanda.codpostal}">Cod postal</td>
+                        <td th:text="${comanda.produse}">Produse comandate</td>
+                        <td>
+                            <a th:href="@{'/editComanda/' + ${comanda.id}}">Edit</a>
+                            &nbsp;&nbsp;&nbsp;
+                            <a th:href="@{'/deleteComanda/' + ${comanda.id}}">Delete</a>
+
+
+                        </td>
+
+
+                    </tr>
+                </tbody>
+
+            </table>
+        </div>
+
+    </div>
+
+</body>
+</html>

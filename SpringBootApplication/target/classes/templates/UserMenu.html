@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html  xmlns:th="http://www.thymeLeaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>UserMenu -CodeJava</title>
+    <link rel = "stylesheet" type = "text/css" href = "/webjars/bootstrap/css/bootstrap.min.css" >
+</head>
+<body>
+    <div class="container text-center">
+        <div>
+        <h1>
+            Bine ai venit!
+        </h1>
+        </div>
+        <div>
+
+            <h3><a th:href="@{/list_parfumuri}" > Vizualizare parfumuri </a> </h3>
+            <h3><a th:href="@{/newComanda}" > Adauga o comanda </a> </h3>
+            <h3><a th:href="@{/new_review}" > Adauga review </a> </h3>
+            <h3><a th:href="@{/lista_review}" > Vizualizare review-uri postate de tine </a> </h3>
+
+
+        </div>
+
+
+    </div>
+
+</body>
+</html>

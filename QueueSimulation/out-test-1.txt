@@ -1,0 +1,353 @@
+Time 0
+Waiting clients:
+(1,15,2)
+(2,7,2)
+(3,6,3)
+(4,4,4)
+Queue 1: closed
+Queue 2: closed
+
+
+Time 1
+Waiting clients: 
+(1,15,2)
+(2,7,2)
+(3,6,3)
+(4,4,4)
+Queue 1: closed
+Queue 2: closed
+
+
+Time 2
+Waiting clients: 
+(1,15,2)
+(2,7,2)
+(3,6,3)
+(4,4,4)
+Queue 1: closed
+Queue 2: closed
+
+
+Time 3
+Waiting clients: 
+(1,15,2)
+(2,7,2)
+(3,6,3)
+(4,4,4)
+Queue 1: closed
+Queue 2: closed
+
+
+Time 4
+Waiting clients: 
+(1,15,2)
+(2,7,2)
+(3,6,3)
+Queue 1
+(4,4,4)
+Queue 2: closed
+
+
+Time 5
+Waiting clients: 
+(1,15,2)
+(2,7,2)
+(3,6,3)
+Queue 1
+(4,4,3)
+Queue 2: closed
+
+
+Time 6
+Waiting clients: 
+(1,15,2)
+(2,7,2)
+Queue 1
+(4,4,2)
+Queue 2
+(3,6,3)
+
+
+Time 7
+Waiting clients: 
+(1,15,2)
+Queue 1
+(4,4,1)
+(2,7,2)
+Queue 2
+(3,6,2)
+
+
+Time 8
+Waiting clients: 
+(1,15,2)
+Queue 1
+(2,7,1)
+Queue 2
+(3,6,1)
+
+
+Time 9
+Waiting clients: 
+(1,15,2)
+Queue 1
+
+
+Time 10
+Waiting clients: 
+(1,15,2)
+Queue 1
+
+
+Time 11
+Waiting clients: 
+(1,15,2)
+Queue 1
+
+
+Time 12
+Waiting clients: 
+(1,15,2)
+Queue 1
+
+
+Time 13
+Waiting clients: 
+(1,15,2)
+Queue 1
+
+
+Time 14
+Waiting clients: 
+(1,15,2)
+Queue 1
+
+
+Time 15
+Waiting clients: 
+Queue 1
+Queue 2: closed
+
+
+Time 16
+Waiting clients: 
+Queue 1
+Queue 2: closed
+
+
+Time 17
+Waiting clients: 
+Queue 1
+
+
+Time 18
+Waiting clients: 
+Queue 1
+
+
+Time 19
+Waiting clients: 
+Queue 1
+
+
+Time 20
+Waiting clients: 
+Queue 1
+
+
+Time 21
+Waiting clients: 
+Queue 1
+
+
+Time 22
+Waiting clients: 
+Queue 1
+
+
+Time 23
+Waiting clients: 
+Queue 1
+
+
+Time 24
+Waiting clients: 
+Queue 1
+
+
+Time 25
+Waiting clients: 
+Queue 1
+
+
+Time 26
+Waiting clients: 
+Queue 1
+
+
+Time 27
+Waiting clients: 
+Queue 1
+
+
+Time 28
+Waiting clients: 
+Queue 1
+
+
+Time 29
+Waiting clients: 
+Queue 1
+
+
+Time 30
+Waiting clients: 
+Queue 1
+
+
+Time 31
+Waiting clients: 
+Queue 1
+
+
+Time 32
+Waiting clients: 
+Queue 1
+
+
+Time 33
+Waiting clients: 
+Queue 1
+
+
+Time 34
+Waiting clients: 
+Queue 1
+
+
+Time 35
+Waiting clients: 
+Queue 1
+
+
+Time 36
+Waiting clients: 
+Queue 1
+
+
+Time 37
+Waiting clients: 
+Queue 1
+
+
+Time 38
+Waiting clients: 
+Queue 1
+
+
+Time 39
+Waiting clients: 
+Queue 1
+
+
+Time 40
+Waiting clients: 
+Queue 1
+
+
+Time 41
+Waiting clients: 
+Queue 1
+
+
+Time 42
+Waiting clients: 
+Queue 1
+
+
+Time 43
+Waiting clients: 
+Queue 1
+
+
+Time 44
+Waiting clients: 
+Queue 1
+
+
+Time 45
+Waiting clients: 
+Queue 1
+
+
+Time 46
+Waiting clients: 
+Queue 1
+
+
+Time 47
+Waiting clients: 
+Queue 1
+
+
+Time 48
+Waiting clients: 
+Queue 1
+
+
+Time 49
+Waiting clients: 
+Queue 1
+
+
+Time 50
+Waiting clients: 
+Queue 1
+
+
+Time 51
+Waiting clients: 
+Queue 1
+
+
+Time 52
+Waiting clients: 
+Queue 1
+
+
+Time 53
+Waiting clients: 
+Queue 1
+
+
+Time 54
+Waiting clients: 
+Queue 1
+
+
+Time 55
+Waiting clients: 
+Queue 1
+
+
+Time 56
+Waiting clients: 
+Queue 1
+
+
+Time 57
+Waiting clients: 
+Queue 1
+
+
+Time 58
+Waiting clients: 
+Queue 1
+
+
+Time 59
+Waiting clients: 
+Queue 1
+
+
+Average Waiting time=2.75
