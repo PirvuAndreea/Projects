@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Creeaza o comanda</title>
+</head>
+<body>
+<div align="center">
+    <h1>Creeaza o comanda</h1>
+    </br>
+    <form action="#" th:action="@{/saveComanda}"  method="post">
+
+
+        <table border="0" cellpadding="10">
+
+            <tr>
+                <td>Nume parfum:</td>
+                <td><input type="text" th:field="*{parfum.numeparfum}" /></td>
+            </tr>
+
+
+            <tr>
+                <td>Cantitate:</td>
+                <td><input type="number" th:field="*{produsComanda.cantitate}" /></td>
+            </tr>
+
+            <tr>
+
+            <tr>
+                <td>Prenume:</td>
+            <td><input type="text" th:field="*{comanda.prenume}" /></td>
+            </tr>
+
+            <tr>
+                <td>Nume:</td>
+                <td><input type="text" th:field="*{comanda.nume}" /></td>
+            </tr>
+
+            <tr>
+                <td>Oras:</td>
+                <td><input type="text" th:field="*{comanda.oras}" /></td>
+            </tr>
+
+            <tr>
+                <td>Adresa:</td>
+                <td><input type="text" th:field="*{comanda.adresa}" /></td>
+            </tr>
+
+            <tr>
+                <td>E-mail:</td>
+                <td><input type="email" th:field="*{comanda.email}" /></td>
+            </tr>
+
+            <tr>
+                <td>Numar telefon:</td>
+                <td><input type="text" th:field="*{comanda.nrtelefon}" /></td>
+            </tr>
+
+            <tr>
+                <td>Cod postal:</td>
+                <td><input type="number" th:field="*{comanda.codpostal}" /></td>
+            </tr>
+
+
+
+            <tr> <td colspan="2"><button type= "submit">Adauga</button></td></tr>
+
+
+
+        </table>
+
+
+    </form>
+
+
+
+</div>
+
+</body>
+</html>
